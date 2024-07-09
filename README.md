@@ -1,4 +1,4 @@
-# ! 👋 Hi there, I'm Med Elm!
+# 👋 Hi there, I'm Med Elm!
 
 ## 🚀 About Me
 Passionate Laravel & Vue.js Fullstack Developer<br/>
